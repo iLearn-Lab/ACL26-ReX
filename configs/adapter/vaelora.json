@@ -1,0 +1,23 @@
+{
+    "adapter_name": "vaelora",
+    "r": 8,
+    "r_b": 16,
+    "d_z": 8,
+    "topk": 8,
+    "lora_alpha": 16,
+    "enc_hidden": 64,
+    "head_hidden": 64,
+    "free_bits": 0.75,
+    "beta_coh": 0.1,
+    "beta_kl": 0.1,
+    "beta_recon": 0.1,
+    "if_max": 0,
+    "mixer_weight_init": "kaiming_uniform",
+    "use_bf16_compute": true,
+    "vaelora_dropout": 0.00,
+    "target_modules": null,
+    "exclude_modules": null,
+    "fan_in_fan_out": false,
+    "bias": "none",
+    "modules_to_save": null
+} 

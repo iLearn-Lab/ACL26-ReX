@@ -1,0 +1,7 @@
+{
+    "max_new_tokens":1024,
+    "do_sample": false,
+    "temperature": 0.0,
+    "top_p": 0.95,
+    "top_k": 1
+}

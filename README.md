@@ -1,4 +1,3 @@
 # ReX
 
-Code is coming soon.
-Code is coming soon.
+Code for Rex

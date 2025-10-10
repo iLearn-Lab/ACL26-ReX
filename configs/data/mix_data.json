@@ -1,0 +1,11 @@
+{
+    "name": "mix_datav2",
+    "train_name": "filter_train_10K",
+    "val_name": "",
+    "test_name": "gpqa,mmlupro_chemistry,math500_level3,mmlupro_math,mmlupro_economics",
+    "val_split": 0.02,
+    "max_seq_length": 1024,
+    "max_train_samples": 20000,
+    "max_val_samples": 1000,
+    "max_test_samples": 100
+}

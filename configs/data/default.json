@@ -1,0 +1,12 @@
+{
+    "data_cache_dir": "data",
+    "name": "math500",
+    "train_name": "train",
+    "val_name": "",
+    "test_name": "",
+    "val_split": 0.05,
+    "max_seq_length": 1024,
+    "max_train_samples": 1000,
+    "max_val_samples": 50,
+    "max_test_samples": 50
+} 
