@@ -26,7 +26,7 @@
 
 ## Updates
 
-- [04/2026] Code released.
+- [04/2026] ReX Code released.
 
 ---
 
